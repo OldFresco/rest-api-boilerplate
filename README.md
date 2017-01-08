@@ -1,3 +1,3 @@
-# comms-service-api
+# {COMPONENT_NAME}-api
 
-RESTful API providing central communications services.
+RESTful API providing {SERVICE DESCRIPTION} services.
