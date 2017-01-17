@@ -4,7 +4,7 @@ import settings from '../config/settings';
 class MetaController extends BaseController {
   index(req, res) {
 		res.json({
-			version : settings.version,
+			version : settings.apiVersion,
 			health: 'ok'
 		});
 	}
